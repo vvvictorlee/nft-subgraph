@@ -1,1 +1,2 @@
-# nft-subgraph
+# NFT Subgraph
+
